@@ -7,7 +7,7 @@ function getPricesNew() {
   var psid = getProductSku();
   const prodName = $("#product-title").html().trim();
 
-w  chrome.runtime.sendMessage(
+  chrome.runtime.sendMessage(
     {
       name: "getAvail",
       ean: psid,
