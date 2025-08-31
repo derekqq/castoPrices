@@ -1,0 +1,31 @@
+[
+    {
+        "ean": "3663602799245",
+        "name": "Meble atomia Myko",
+        "imageUrl": "https://example.com/images/3663602799245.jpg",
+        "originalPrice": 200,
+        "stores": [
+            {
+                "name": "Castorama Smart Grójec",
+                "price": 119,
+                "qty": 2,
+                "discountInfo": "<span style=\"color:red;font-size:0.95em;\">(50% taniej)</span>",
+                "specialMark": ""
+            },
+            {
+                "name": "Castorama Nysa",
+                "price": 150,
+                "qty": 1,
+                "discountInfo": "<span style=\"color:red;font-size:0.95em;\">(37% taniej)</span>",
+                "specialMark": ""
+            },
+            {
+                "name": "Castorama Pabianice",
+                "price": 150,
+                "qty": 1,
+                "discountInfo": "<span style=\"color:red;font-size:0.95em;\">(37% taniej)</span>",
+                "specialMark": ""
+            }
+        ]
+    }
+]
